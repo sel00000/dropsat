@@ -7,3 +7,8 @@ venv/
 Thumbs.db
 .env
 .env.*
+
+# 팀 작업
+*.local.md
+!.env.example
+node_modules/
